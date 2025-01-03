@@ -86,7 +86,7 @@
   size: 18pt
 )
 
-#indent 正文
+#indent 摘要
 
 // 目录
 
